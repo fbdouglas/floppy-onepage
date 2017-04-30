@@ -1,0 +1,80 @@
+/**
+********************************
+* Author: Douglas Phillips
+* Description: One-page template
+* MIT License: https://github.com/fbdouglas/floppy-onepage/blob/master/LICENSE
+********************************
+**/
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.header {
+    position: absolute;
+    z-index: 100;
+    top: 0;
+    left: 0;
+    width: 75%;
+    padding: 30px 30px;
+}
+
+.dp-headlogo, a {
+    color: #FFF;
+    text-align: left;
+    vertical-align: top;
+    padding: 0;
+}
+
+.dp-landpage {
+    position: absolute;
+    color: #FFF;
+    top: 50%;
+    left: 50%;
+    padding: 15px;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.dp-small {
+    font-size: 13px;
+    float: right
+}
+
+.dp-footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 10px 25px;
+    width: 96%;
+}
+
+.dp-footer p {
+    color: #FFF;
+    font-weight: bold;
+    opacity: .3;
+    line-height: 1em;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+table {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}

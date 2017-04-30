@@ -1,0 +1,1 @@
+I do plan to add a Steam login or Google login in the future. I'll probably aswell will update the code to look more professional too.
