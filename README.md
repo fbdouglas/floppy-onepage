@@ -6,6 +6,8 @@ Floppy's one-page template that's easily customizable for your website's needs.
 
 The template comes with a config.php file located in /inc/ folder there you will have the ability to edit anything on the front page.
 
+[![N|Solid](http://i.imgur.com/dFQzijI.jpg)]
+
 # Copyright
 
 MIT License
